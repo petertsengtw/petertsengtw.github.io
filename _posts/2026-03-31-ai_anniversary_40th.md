@@ -20,7 +20,7 @@ header:
 正式說：一個單頁式靜態紀念網站，完整呈現醫院從 1986 年開院到今天整整 **40 年**的歲月。
 純 HTML5 / CSS3 / Vanilla JS，不靠框架、不靠 CDN、直接丟瀏覽器就能吃——跟泡麵一樣方便，但口感好太多。
 
-<img src="../assets/images/40th.png" alt="花蓮慈濟醫院40周年網站圖">
+<img src="/assets/images/40th.png" alt="花蓮慈濟醫院40周年網站圖">
 
 [https://hlm.tzuchi.com.tw/ai_anniversary/](https://hlm.tzuchi.com.tw/ai_anniversary/)
 
