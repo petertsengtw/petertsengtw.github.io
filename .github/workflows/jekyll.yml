@@ -33,7 +33,7 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.0' # You may need to change this to match your project's Ruby version
+          ruby-version: '3.3' # Match local Gemfile.lock generated with Ruby 3.3+
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
       - name: Build with Jekyll
         run: bundle exec jekyll build --source . --destination ./_site
