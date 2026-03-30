@@ -18,7 +18,7 @@ tags: [html, css, javascript, dearflip, 靜態網頁, 慈濟]
 正式說：一個單頁式靜態紀念網站，完整呈現醫院從 1986 年開院到今天整整 **40 年**的歲月。
 純 HTML5 / CSS3 / Vanilla JS，不靠框架、不靠 CDN、直接丟瀏覽器就能吃——跟泡麵一樣方便，但口感好太多。
 
-網址：https://hlm.tzuchi.com.tw/ai_anniversary/
+[https://hlm.tzuchi.com.tw/ai_anniversary/](https://hlm.tzuchi.com.tw/ai_anniversary/)
 
 - 補充說明：目前40周年特刊編輯中，目前翻頁電子書和podcast內容暫時以35周年特刊為例。
 ---
