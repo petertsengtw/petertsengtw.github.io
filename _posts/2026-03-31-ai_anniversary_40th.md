@@ -23,7 +23,7 @@ header:
 <img src="/assets/images/40th.png" alt="花蓮慈濟醫院40周年網站圖">
 
 網址：
-[https://hlm.tzuchi.com.tw/ai_anniversary/](https://hlm.tzuchi.com.tw/ai_anniversary/)
+[https://hlm.tzuchi.com.tw/anniversary/](https://hlm.tzuchi.com.tw/anniversary/)
 
 
 補充說明：目前40周年特刊編輯中，因此目前翻頁電子書和podcast內容暫時以35周年特刊為例。
