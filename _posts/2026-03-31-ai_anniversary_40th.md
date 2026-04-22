@@ -5,6 +5,7 @@ categories: project
 tags: [html, css, javascript, dearflip, 靜態網頁, 慈濟]
 header:
   og_image: /assets/images/40th.png
+  teaser: /assets/images/40th.png
 ---
 
 各位好，我是那個在慈院公傳室、日夜與官網搏鬥的曾小P。

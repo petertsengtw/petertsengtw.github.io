@@ -3,6 +3,8 @@ title:  "Gemini vs. Gemini-CLI: 差異解析"
 date:   2025-11-16 10:00:00 +0800
 categories: AI CLI
 tags: [ai, Google, Gemini]
+header:
+  teaser: /assets/images/select_model_gemini3.png
 ---
 
 參加教育科技展後，回來我安裝gemini-cli到電腦上，並使用VS Code作為編輯器。透過terminal啟動gemini-cli，透過問答的方式產生以下內容。這次測試想了解germini-cli使用上跟網頁最大的差異點。

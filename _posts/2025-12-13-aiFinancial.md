@@ -3,6 +3,8 @@ title: "當技術邏輯遇上金融敘事，思維模型的衝撞"
 date: 2025-12-13 22:00:00 +0800  # 確保日期與檔名一致
 categories: [github]     # 定義標籤和分類
 tags: [ai]
+header:
+  teaser: /assets/images/20251213.jpg
 ---
 今天早上，參與了東華大學 EMBA 主辦的讀書會講座
 【AI、美元、黃金。你的財富】

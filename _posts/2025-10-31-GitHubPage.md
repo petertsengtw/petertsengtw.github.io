@@ -3,6 +3,8 @@ title: "開始使用GitHubPage作為我的分享網站"
 date: 2025-10-31 10:45:00 +0800  # 確保日期與檔名一致
 categories: [github]     # 定義標籤和分類
 tags: [github]
+header:
+  teaser: /assets/images/coding-bk.jpg
 ---
 
 過去我曾經使用過Google blogger、Notion等工具，發表我的學習心得文件。但我總擔心一個問題，就是這些平台/公司將來會不會有倒閉或者平台關閉的情況(雖然不太可能)，那我的資料的下場是？這也是我決定將資料搬來github page的主因。無論如何，原始資料在我的電腦都會保留一份(markdown)，我永遠都有資料的掌握權。這段期間，我也跟chatGPT討論過，以下是他給我的回應：

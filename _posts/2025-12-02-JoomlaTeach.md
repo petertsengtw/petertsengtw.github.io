@@ -3,6 +3,8 @@ title:  "Joomla Teach"
 date:   2025-12-02 20:00:00 +0800
 categories: joomla
 tags: [joomla]
+header:
+  teaser: /assets/images/coding-bk.jpg
 ---
 
 這篇文章提供院內負責醫療科網站管理的同仁參考。所有操作都必須在院內網路環境。有任何問題可聯繫曾建瑋(花蓮慈濟醫院公共傳播室多媒體組網管, 分機 #15295)

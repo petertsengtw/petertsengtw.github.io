@@ -3,6 +3,8 @@ title:  "我們的世界會越來越好嗎？"
 date:   2025-12-03 01:00:00 +0800
 categories: diary
 tags: [diary]
+header:
+  teaser: /assets/images/ocean.jpg
 ---
 
 世界紛紛擾擾，我們的世界會越來越好嗎？

@@ -65,6 +65,8 @@ defaults:
       layout: single        # 使用單篇文章版型
       author_profile: true  # 顯示左側作者欄
       read_time: true       # 顯示閱讀時間預估
+      header:
+        teaser: /assets/images/coding-bk.jpg
       comments: true        # 開啟留言 (需另外設定 Disqus 或 Giscus)
       share: true           # 顯示分享按鈕
       related: true         # 顯示底部相關文章

@@ -3,6 +3,8 @@ title: "碼上心經：開機啟動與自我救贖指南"
 date: 2025-10-01 08:00:00 +0800  # 確保日期與檔名一致
 categories: [github]     # 定義標籤和分類
 tags: [diary]
+header:
+  teaser: /assets/images/smoke.jpg
 ---
 ![圖片](/assets/images/smoke.jpg)
 ## 第一篇：中年危機？不，是程式碼「除錯」人生！
