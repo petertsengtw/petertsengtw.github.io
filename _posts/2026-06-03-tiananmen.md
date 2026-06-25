@@ -7,7 +7,9 @@ header:
   teaser: /assets/images/ocean.jpg
 ---
 ![64天安門事件-1](/assets/images/64-1.jpg)
+
 ![64天安門事件-2](/assets/images/64-2.jpg)
+
 ![64天安門事件-3](/assets/images/64-3.jpg)
 
 1989年，我10歲。

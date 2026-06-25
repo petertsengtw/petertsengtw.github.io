@@ -7,6 +7,7 @@ header:
   teaser: /assets/images/ocean.jpg
 ---
 ![花崗管樂團-温策帆1](/assets/images/drump1.jpg)
+
 ![花崗管樂團-温策帆2](/assets/images/drump2.jpg)
 
 國中那年，我是個外來者。
