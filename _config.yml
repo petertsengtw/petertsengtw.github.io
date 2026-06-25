@@ -8,6 +8,7 @@ description: >-
 twitter_username: "petertseng_tw" # 如果沒有可以拿掉
 github_username: "petertseng0517"
 google_site_verification: "PqqdWkIF5JIC1d0bzMWXZn-GL-JCdZ1iNk562YaK-VQ"
+og_image: "/assets/images/avatar.jpg" # 沒有指定 teaser 的頁面（例如首頁）分享縮圖的預設圖
 minimal_mistakes_skin: "air" # 推薦樣式: "air", "sunrise", "default", "dark"
 search: true # 開啟搜尋功能
 
