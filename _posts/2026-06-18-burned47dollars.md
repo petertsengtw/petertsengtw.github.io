@@ -4,10 +4,9 @@ date: 2026-06-18 13:26:00 +0800
 categories: diary
 tags: [diary, 小說, ai]
 header:
-  teaser: /assets/images/smoke.jpg
+  og_image: /assets/images/47dollars.jpg
+  teaser: /assets/images/47dollars.jpg
 ---
-![狂燒token](/assets/images/47dollars.jpg)
-
 我的時間表大概是這樣。
 
 白天工作，醫院那邊的系統出了問題要處理。下班回家，先陪小孩把功課弄完。等他睡了，才輪到我打開電腦。
@@ -19,6 +18,8 @@ header:
 在職碩班就是這樣，你的時間永遠排在最後一個。
 
 ---
+
+![狂燒token](/assets/images/47dollars.jpg)
 
 每次看到新的專案要求，就是絕望一下。
 

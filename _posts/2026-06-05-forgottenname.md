@@ -4,7 +4,8 @@ date: 2026-06-05 21:08:00 +0800
 categories: diary
 tags: [diary, 小說]
 header:
-  teaser: /assets/images/ocean.jpg
+  og_image: /assets/images/man.jpg
+  teaser: /assets/images/man.jpg
 ---
 ![全校的語言霸凌讓我茁壯](/assets/images/man.jpg)
 

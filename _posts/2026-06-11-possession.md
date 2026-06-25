@@ -4,7 +4,8 @@ date: 2026-06-11 16:19:00 +0800
 categories: diary
 tags: [diary, 小說]
 header:
-  teaser: /assets/images/ocean.jpg
+  og_image: /assets/images/goest.jpg
+  teaser: /assets/images/goest.jpg
 ---
 ![乩身](/assets/images/goest.jpg)
 

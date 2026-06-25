@@ -4,7 +4,8 @@ date: 2026-06-02 17:31:00 +0800
 categories: diary
 tags: [diary, 小說, 管樂團]
 header:
-  teaser: /assets/images/ocean.jpg
+  og_image: /assets/images/drump1.jpg
+  teaser: /assets/images/drump1.jpg
 ---
 ![花崗管樂團-温策帆1](/assets/images/drump1.jpg)
 

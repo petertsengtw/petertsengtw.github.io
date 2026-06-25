@@ -4,7 +4,8 @@ date: 2026-06-03 00:00:00 +0800
 categories: diary
 tags: [diary, 小說]
 header:
-  teaser: /assets/images/ocean.jpg
+  og_image: /assets/images/64-1.jpg
+  teaser: /assets/images/64-1.jpg
 ---
 ![64天安門事件-1](/assets/images/64-1.jpg)
 
