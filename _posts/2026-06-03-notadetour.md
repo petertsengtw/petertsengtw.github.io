@@ -65,6 +65,6 @@ header:
 
 ---
 
-*學習紀錄：github.com/petertseng0517/TAICA_AIASE2026*
+*學習紀錄：github.com/petertsengtw/TAICA_AIASE2026*
 
 **#生成式AI #TAICA #AgentEngineering #48歲還在學**

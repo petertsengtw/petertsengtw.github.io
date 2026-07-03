@@ -70,7 +70,7 @@ header:
 ### 步驟四：等待網站發佈並訪問
 1. 等待建置： 在您提交變更後，GitHub Pages 會自動開始建置您的網站。這通常需要幾分鐘。
 2. 查看狀態： 您可以進入 Settings，從左邊的Pages頁面看到建置狀態。當狀態顯示為 Your site is live at... 時，就表示成功了。
-3. 訪問您的部落格： 打開瀏覽器，輸入您的網址：{[https://petertseng0517.github.io](https://petertseng0517.github.io)}$$
+3. 訪問您的部落格： 打開瀏覽器，輸入您的網址：{[https://petertsengtw.github.io](https://petertsengtw.github.io)}$$
 
 ### 步驟五：撰寫您的第一篇閱讀心得 (本地操作)
 現在，我們要將儲存庫複製到您的電腦上，以便在您選擇的編輯器中寫作。

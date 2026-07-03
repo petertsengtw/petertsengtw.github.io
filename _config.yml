@@ -6,7 +6,7 @@ email: "peter.qfx@gmail.com"  # <--- 你的 Email
 description: >-
   碼上心經：人到中年，以 AI、Coding 為修行，記錄 LLM 影片生成等前沿技術的學習歷程與實戰筆記。
 twitter_username: "petertseng_tw" # 如果沒有可以拿掉
-github_username: "petertseng0517"
+github_username: "petertsengtw"
 google_site_verification: "PqqdWkIF5JIC1d0bzMWXZn-GL-JCdZ1iNk562YaK-VQ"
 og_image: "/assets/images/avatar.jpg" # 沒有指定 teaser 的頁面（例如首頁）分享縮圖的預設圖
 minimal_mistakes_skin: "air" # 推薦樣式: "air", "sunrise", "default", "dark"
@@ -24,8 +24,8 @@ analytics:
 # -------------------------------------------------------------------------
 # Build Settings (建置與路徑設定 - 最重要！)
 # -------------------------------------------------------------------------
-# 因為你是 User Page (petertseng0517.github.io)，這兩行設定如下：
-url: "https://petertseng0517.github.io"
+# 因為你是 User Page (petertsengtw.github.io)，這兩行設定如下：
+url: "https://petertsengtw.github.io"
 baseurl: "" 
 
 # -------------------------------------------------------------------------
@@ -59,7 +59,7 @@ author:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/petertseng0517"
+      url: "https://github.com/petertsengtw"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/chian-wei-tseng/"
@@ -73,7 +73,7 @@ author:
 social:
   name: "曾建瑋 Peter Tseng"
   links:
-    - "https://github.com/petertseng0517"
+    - "https://github.com/petertsengtw"
     - "https://www.linkedin.com/in/chian-wei-tseng/"
     - "https://www.facebook.com/petertsengtw"
 

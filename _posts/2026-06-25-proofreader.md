@@ -73,7 +73,7 @@ header:
 
 ---
 
-工具我放在GitHub上：[chinese-proofreader](https://github.com/petertseng0517/chinese-proofreader)。
+工具我放在GitHub上：[chinese-proofreader](https://github.com/petertsengtw/chinese-proofreader)。
 
 公傳室內部那套需要帳密才能登入，外人進不去——但程式碼是開的。如果你也常被交辦校稿這種苦差事，歡迎直接fork回家，接上你自己的API key，燒你自己的token就好。
 

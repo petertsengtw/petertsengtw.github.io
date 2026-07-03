@@ -8,7 +8,7 @@
 require "yaml"
 require "date"
 
-SITE_URL = "https://petertseng0517.github.io"
+SITE_URL = "https://petertsengtw.github.io"
 
 def latest_post
   Dir.glob("_posts/*.md")
