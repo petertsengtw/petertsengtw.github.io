@@ -4,8 +4,8 @@ date: 2026-07-09 22:00:00 +0800
 categories: diary
 tags: [diary, 攝影比賽, 評分系統, FastAPI]
 header:
-  og_image: /assets/images/model.png
-  teaser: /assets/images/model.png
+  og_image: /assets/images/photo-contest-tiebreak-og.png
+  teaser: /assets/images/photo-contest-tiebreak-og.png
 ---
 
 # 52 張照片、5 位評審、96% 同分機率：我怎麼設計這套評分系統
@@ -15,6 +15,9 @@ header:
 醫院今年 40 週年院慶，辦了一場攝影比賽。同仁組收到 29 件投稿，社會組 23 件，五位評審要分別替兩組照片打分數。
 
 任務交到我手上的時候，聽起來輕輕鬆鬆——找幾位評審、發幾張照片、算一算分數、公布名次。我心裡也是這麼想的，直到我坐下來，把整件事在腦子裡認真跑過一遍。
+
+---
+![同分機率](/assets/images/photo-contest-tiebreak-og.png)
 
 麻煩是一層一層冒出來的。
 
