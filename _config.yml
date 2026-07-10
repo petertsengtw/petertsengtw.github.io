@@ -18,7 +18,7 @@ search: true # 開啟搜尋功能
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "G-K35RRV6473"
+    tracking_id: "G-9G3JB479NN"
     anonymize_ip: false
 
 # -------------------------------------------------------------------------
