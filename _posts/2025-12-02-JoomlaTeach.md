@@ -1,5 +1,6 @@
 ---
 title:  "Joomla Teach"
+description: "花蓮慈濟醫院公傳室Joomla網站管理教學文件：帳號申請、文章編輯、圖片上傳等各部門常見操作全紀錄。"
 date:   2025-12-02 20:00:00 +0800
 categories: joomla
 tags: [joomla]

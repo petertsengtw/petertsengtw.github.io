@@ -1,5 +1,6 @@
 ---
 title: "鐵齒"
+description: "廟口儀式上一句鐵齒的心裡話，換來一段完全空白的記憶——第一次被附身的真實經歷。"
 date: 2026-06-11 16:19:00 +0800
 categories: diary
 tags: [diary, 小說]

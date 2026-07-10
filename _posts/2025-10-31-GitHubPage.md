@@ -1,5 +1,6 @@
 ---
 title: "開始使用GitHubPage作為我的分享網站"
+description: "從Blogger、Notion搬家到GitHub Pages的完整實作紀錄，含建立Repo、Jekyll佈景、撰寫發布文章的步驟教學。"
 date: 2025-10-31 10:45:00 +0800  # 確保日期與檔名一致
 categories: [github]     # 定義標籤和分類
 tags: [github]

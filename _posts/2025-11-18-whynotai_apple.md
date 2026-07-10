@@ -1,5 +1,6 @@
 ---
 title:  "為何Apple不放棄Siri?"
+description: "從Siri體驗的挫折出發，討論蘋果為何不直接改用ChatGPT取代Siri，以及蘋果在AI競賽中落後的七大結構性困難。"
 date:   2025-11-18 10:30:00 +0800
 categories: AI
 tags: [Apple, Siri, ai, ChatGPT, Google, Gemini]

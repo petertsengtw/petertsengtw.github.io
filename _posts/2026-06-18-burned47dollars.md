@@ -1,5 +1,6 @@
 ---
 title: "那晚我燒了47美金"
+description: "在職碩班半年趕完12個專案的崩潰紀實，以及一天內燒光47美金API額度換來的教訓。"
 date: 2026-06-18 13:26:00 +0800
 categories: diary
 tags: [diary, 小說, ai]

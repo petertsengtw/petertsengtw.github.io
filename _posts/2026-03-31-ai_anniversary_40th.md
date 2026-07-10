@@ -1,5 +1,6 @@
 ---
 title: "用 AI 幫醫院辦 40 歲生日派對——我做了什麼好康的網站"
+description: "用SDD規格書搭配AI協作，在極短時間內打造花蓮慈濟醫院40周年紀念網站的開發全紀錄。"
 date: 2026-03-31 10:00:00 +0800
 categories: project
 tags: [html, css, javascript, dearflip, 靜態網頁, 慈濟]

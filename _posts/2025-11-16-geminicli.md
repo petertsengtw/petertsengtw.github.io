@@ -1,5 +1,6 @@
 ---
 title:  "Gemini vs. Gemini-CLI: 差異解析"
+description: "釐清Gemini模型與Gemini-CLI命令列工具的差異，並附上在終端機安裝、設定Gemini-CLI的完整步驟。"
 date:   2025-11-16 10:00:00 +0800
 categories: AI CLI
 tags: [ai, Google, Gemini]

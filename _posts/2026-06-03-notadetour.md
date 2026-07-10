@@ -1,5 +1,6 @@
 ---
 title: "不是在繞路"
+description: "48歲、碩一，重新回到資工課堂學AI Agent工程，一句AI的回覆讓我看懂自己這幾十年不是繞路而是等待時代到來。"
 date: 2026-06-03 20:00:00 +0800
 categories: diary
 tags: [diary, 小說, ai]

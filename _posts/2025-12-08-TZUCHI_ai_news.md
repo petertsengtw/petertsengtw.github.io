@@ -1,5 +1,6 @@
 ---
 title:  "智慧醫療輿情助理"
+description: "用Groq + Llama 3.1打造醫院新聞輿情監測系統的期末專案紀錄，涵蓋爬蟲、風險評分與自動摘要的完整架構。"
 date:   2025-12-08 10:00:00 +0800
 categories: ai
 tags: [groq, llama3,BeautifulSoup4,  ]
