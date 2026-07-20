@@ -1,9 +1,229 @@
 <style>
+  /* ==========================================================
+     終端機風格主題 (Terminal Theme): 黑底綠字
+     ========================================================== */
+  :root {
+    --term-bg: #0a0d0a;
+    --term-bg-alt: #000000;
+    --term-fg: #33ff66;
+    --term-fg-dim: #1f9c46;
+    --term-fg-bright: #7CFFA0;
+    --term-border: #1f7a3f;
+    --term-selection: #145c2b;
+  }
+
+  html, body {
+    background-color: var(--term-bg) !important;
+    color: var(--term-fg) !important;
+  }
+
+  body,
+  .page__content,
+  .page__title,
+  .archive__item-title,
+  .site-title,
+  .site-subtitle,
+  .masthead,
+  .greedy-nav,
+  .author__content,
+  .author__bio,
+  .toc,
+  .page__footer,
+  input, textarea, select, button {
+    font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace !important;
+  }
+
+  ::selection {
+    background: var(--term-selection);
+    color: var(--term-fg-bright);
+  }
+
+  /* 捲軸 */
+  ::-webkit-scrollbar { width: 10px; height: 10px; }
+  ::-webkit-scrollbar-track { background: var(--term-bg-alt); }
+  ::-webkit-scrollbar-thumb { background: var(--term-fg-dim); border: 1px solid var(--term-border); }
+  html { scrollbar-color: var(--term-fg-dim) var(--term-bg-alt); }
+
+  /* 版面主要區塊 */
+  .masthead,
+  .page__footer,
+  .search-content,
+  .search-content__inner-wrap,
+  .toc,
+  .sidebar,
+  .author__urls,
+  .archive__item,
+  .page__hero,
+  #main {
+    background-color: var(--term-bg) !important;
+    border-color: var(--term-border) !important;
+    box-shadow: none !important;
+  }
+
+  .masthead {
+    border-bottom: 1px solid var(--term-border) !important;
+  }
+
+  .greedy-nav {
+    background-color: var(--term-bg) !important;
+  }
+
+  .greedy-nav a,
+  .site-title,
+  .site-subtitle {
+    color: var(--term-fg) !important;
+  }
+
+  .greedy-nav a:hover,
+  .greedy-nav .visible-links a:hover {
+    color: var(--term-fg-bright) !important;
+  }
+
+  /* 標題與強調 */
+  h1, h2, h3, h4, h5, h6,
+  .page__title,
+  .archive__item-title a {
+    color: var(--term-fg-bright) !important;
+    text-shadow: 0 0 2px rgba(51, 255, 102, 0.35);
+  }
+
+  .page__title:before,
+  .archive__item-title:before {
+    content: none !important;
+  }
+
+  /* 連結 */
+  a,
+  .page__content a,
+  .archive__item-excerpt a {
+    color: var(--term-fg-bright) !important;
+    text-decoration: underline;
+  }
+
+  a:hover {
+    color: #ffffff !important;
+    background-color: var(--term-fg-dim);
+  }
+
+  /* 內文文字 */
+  p, li, blockquote, .page__content,
+  .archive__item-excerpt,
+  .page__meta,
+  .author__bio {
+    color: var(--term-fg) !important;
+  }
+
+  /* 引言 / 分隔線 */
+  blockquote {
+    border-left: 3px solid var(--term-border) !important;
+    background-color: var(--term-bg-alt) !important;
+    color: var(--term-fg-dim) !important;
+  }
+
+  hr {
+    border-top: 1px dashed var(--term-border) !important;
+  }
+
+  /* 程式碼區塊 */
+  code, pre,
+  .highlight, .highlighter-rouge {
+    background-color: var(--term-bg-alt) !important;
+    color: var(--term-fg) !important;
+    border: 1px solid var(--term-border) !important;
+    border-radius: 0 !important;
+  }
+
+  code {
+    padding: 2px 4px;
+  }
+
+  /* 表格 */
+  table {
+    border: 1px solid var(--term-border) !important;
+  }
+
+  table th, table td {
+    background-color: var(--term-bg) !important;
+    color: var(--term-fg) !important;
+    border: 1px solid var(--term-border) !important;
+  }
+
+  table tr:nth-child(even) td {
+    background-color: var(--term-bg-alt) !important;
+  }
+
+  /* 按鈕 / 標籤 */
+  .btn,
+  .page__taxonomy-item,
+  .tag-list-item {
+    background-color: var(--term-bg-alt) !important;
+    color: var(--term-fg) !important;
+    border: 1px solid var(--term-border) !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+  }
+
+  .btn:hover,
+  .tag-list-item:hover {
+    background-color: var(--term-fg-dim) !important;
+    color: #000000 !important;
+  }
+
+  /* 作者頭像 */
+  .author__avatar img {
+    border: 1px solid var(--term-border) !important;
+    border-radius: 0 !important;
+    filter: grayscale(100%) contrast(1.1) brightness(0.9) sepia(60%) hue-rotate(60deg) saturate(3);
+  }
+
+  /* 文章列表縮圖 */
+  .archive__item-teaser img,
+  .archive__item-teaser-left img {
+    border: 1px solid var(--term-border) !important;
+    border-radius: 0 !important;
+    filter: grayscale(60%) contrast(1.05);
+  }
+
+  /* 分頁 */
+  .pagination li a,
+  .pagination--pager {
+    background-color: var(--term-bg-alt) !important;
+    color: var(--term-fg) !important;
+    border: 1px solid var(--term-border) !important;
+    border-radius: 0 !important;
+  }
+
+  .pagination li a:hover {
+    background-color: var(--term-fg-dim) !important;
+    color: #000 !important;
+  }
+
+  /* 搜尋框 */
+  .search__toggle,
+  .search-content__form input {
+    color: var(--term-fg) !important;
+    background-color: var(--term-bg-alt) !important;
+  }
+
+  /* 目錄 (TOC) */
+  .toc .nav__title {
+    background-color: var(--term-fg-dim) !important;
+    color: #000 !important;
+  }
+
+  .toc__menu a {
+    color: var(--term-fg) !important;
+  }
+
+  .toc__menu a:hover {
+    color: var(--term-fg-bright) !important;
+  }
+
   /* 首頁文章列表：左圖右文 */
   .list__item {
     margin-bottom: 1.5em;
     padding-bottom: 1.5em;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid var(--term-border);
   }
 
   .list__item .archive__item {
