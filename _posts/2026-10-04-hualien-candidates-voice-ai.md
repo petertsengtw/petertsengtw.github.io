@@ -5,11 +5,11 @@ date: 2026-10-04 16:07:00 +0800
 categories: ai
 tags: [ai, llm, voice, 花蓮, 選舉]
 header:
-  og_image: /assets/images/20261004-voice-ai-panel.png
-  teaser: /assets/images/20261004-voice-ai-panel.png
+  og_image: /assets/images/20261004-voice-ai-avatars.png
+  teaser: /assets/images/20261004-voice-ai-avatars.png
 ---
 
-![花蓮縣長參選人 AI 對談實驗的多人對談頁](/assets/images/20261004-voice-ai-panel.png)
+![花蓮縣長參選人 AI 對談實驗的多人對談頁](/assets/images/20261004-voice-ai-avatars.png)
 
 ## 看板上的字都很大
 
