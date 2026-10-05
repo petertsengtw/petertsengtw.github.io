@@ -9,6 +9,8 @@ header:
   teaser: /assets/images/20261004-voice-ai-avatars.png
 ---
 
+{% include video id="fo03AKByvMM" provider="youtube" %}
+
 ![花蓮縣長參選人 AI 對談實驗的多人對談頁](/assets/images/20261004-voice-ai-avatars.png)
 
 ## 看板上的字都很大
