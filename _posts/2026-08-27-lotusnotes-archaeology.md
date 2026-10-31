@@ -6,6 +6,8 @@ last_modified_at: 2026-10-31 18:00:00 +0800
 categories: project
 tags: [lotus-notes, com, line-liff, firebase, cloud-functions, joomla, python, 醫院系統]
 mermaid: true
+redirect_from:
+  - /project/2026/08/27/lotusnotes-com-welfare.html
 header:
   og_image: /assets/images/lotusnotes-32bits.png
   teaser: /assets/images/lotusnotes-32bits.png

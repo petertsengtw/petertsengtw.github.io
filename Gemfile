@@ -11,6 +11,7 @@ group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "jekyll-include-cache" # 這個主題強烈依賴這個外掛
   gem "jekyll-remote-theme"
+  gem "jekyll-redirect-from" # 改檔名後讓舊網址轉到新網址
 end
 
 # Windows 系統可能需要這行，Mac 通常不需要，但留著無妨

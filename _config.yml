@@ -42,6 +42,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-remote-theme # 確保 GitHub Actions 能抓到遠端主題
+  - jekyll-redirect-from # 文章改檔名時，用 redirect_from 保住舊網址
 
 # -------------------------------------------------------------------------
 # Exclude (不要納入建置的檔案)
