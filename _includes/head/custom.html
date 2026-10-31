@@ -376,3 +376,29 @@
     }
   }
 </style>
+
+{% if page.mermaid %}
+{% comment %}
+  文章 front matter 寫 mermaid: true 才載入。
+  kramdown 會把 ```mermaid 轉成一般程式碼區塊，這裡換成 mermaid 吃得懂的 <pre class="mermaid">。
+{% endcomment %}
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10.9.1/dist/mermaid.min.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    // rouge 把 language-mermaid 掛在外層 div；沒經過 rouge 時則在 code 上
+    document.querySelectorAll("div.language-mermaid, pre > code.language-mermaid").forEach(function (el) {
+      var box = el.matches("div") ? el : (el.closest(".highlighter-rouge") || el.parentElement);
+      if (!box.isConnected) return;
+      var pre = document.createElement("pre");
+      pre.className = "mermaid";
+      pre.textContent = box.textContent;
+      box.replaceWith(pre);
+    });
+    mermaid.initialize({ startOnLoad: false, theme: "dark", securityLevel: "strict" });
+    mermaid.run({ querySelector: "pre.mermaid" });
+  });
+</script>
+<style>
+  pre.mermaid { background: transparent !important; border: none !important; text-align: center; overflow-x: auto; }
+</style>
+{% endif %}
